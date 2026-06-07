@@ -1,7 +1,7 @@
 # Hi, I'm Selvakeerthana 👋
 
 ## About Me
-- 🎓 Artificial Intelligence and Machine Learning student
+- 🎓 Artificial Intelligence and Machine Learning Student 
 - ☕ Learning Java Programming
 - 💻 Building projects and improving coding skills
 - 🌱 Currently learning Data Structure and Algorithms 
